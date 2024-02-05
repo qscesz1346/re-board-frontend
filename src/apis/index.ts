@@ -8,7 +8,7 @@ import { PostBoardResponseDto, GetBoardResponseDto, IncreaseViewCountResponseDto
 import { GetPopularListResponseDto, GetRelationListResponseDto } from './response/search';
 import { PatchNicknameRequestDto, PatchProfileImageRequestDto } from './request/user';
 
-const DOMAIN = 'http://localhost:4000';
+const DOMAIN = '';
 
 const API_DOMAIN = `${DOMAIN}/api/v1`;
 
