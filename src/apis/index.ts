@@ -8,7 +8,7 @@ import { PostBoardResponseDto, GetBoardResponseDto, IncreaseViewCountResponseDto
 import { GetPopularListResponseDto, GetRelationListResponseDto } from './response/search';
 import { PatchNicknameRequestDto, PatchProfileImageRequestDto } from './request/user';
 
-const DOMAIN = '';
+const DOMAIN = 'https://port-0-re-board-backend-dj712lls94umja.sel5.cloudtype.app';
 
 const API_DOMAIN = `${DOMAIN}/api/v1`;
 
